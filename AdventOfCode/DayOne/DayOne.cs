@@ -4,7 +4,7 @@ using System.Text.RegularExpressions;
 
 class DayOne
 {
-    static void Main(string[] args)
+    public static void StartDayOne()
     {
         List<int> inputOne = new List<int>();
         List<int> inputTwo = new List<int>();
