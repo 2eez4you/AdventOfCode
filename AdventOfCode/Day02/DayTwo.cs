@@ -10,7 +10,7 @@ class DayTwo
     public static void StartDayTwo()
     {
         int saveCount = 0;
-        string[] lines = System.IO.File.ReadAllLines("..\\..\\..\\DayTwo\\Input.txt");
+        string[] lines = System.IO.File.ReadAllLines("../../../Day02/Input.txt");
 
         foreach (string line in lines)
         {

@@ -8,7 +8,7 @@ class DayOne
     {
         List<int> inputOne = new List<int>();
         List<int> inputTwo = new List<int>();
-        string[] lines = System.IO.File.ReadAllLines("..\\..\\..\\DayOne\\Input.txt");
+        string[] lines = System.IO.File.ReadAllLines("../../../Day01/Input.txt");
 
         foreach (string line in lines)
         {

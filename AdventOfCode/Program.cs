@@ -12,6 +12,7 @@ namespace AdventOfCode
         {
             DayOne.StartDayOne();
             DayTwo.StartDayTwo();
+            DayThree.StartDayThree();
         }
     }
 }
